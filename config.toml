@@ -1,0 +1,158 @@
+baseURL = "/"
+title   = "Pretty Much (It) Ranked"
+languageCode = "en-us"
+theme = ["hello-friend-ng", "hugo-shortcode-gallery"]
+
+PygmentsCodeFences = true
+PygmentsStyle = "dracula"
+
+paginate  = 10
+rssLimit  = 10  # Maximum number of items in the RSS feed.
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+
+googleAnalytics = "G-HL05GSWSF6"
+# disqusShortname = ""
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
+buildDrafts  = false
+buildFuture  = false
+buildExpired = false
+canonifyURLs = true
+
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+[author]
+  name = "Zilla"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Metadata mostly used in document's head
+  description = "A joke taken much too far; ranking all of prettymuch.it"
+  keywords = "blog, watchalong, movies, tv, ericstriffler, prettymuchit, prettymuch.it"
+  images = [""]
+
+  homeSubtitle = "A joke taken much too far; ranking all of prettymuch.it"
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  #
+  # gitUrl = ""
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  #
+  disableReadOtherPosts = false
+
+  # Sharing buttons
+  #
+  # There are a lot of buttons preconfigured. If you want to change them,
+  # generate the buttons here: https://sharingbuttons.io
+  # and add them into your own `layouts/partials/sharing-buttons.html`
+  #
+  enableSharingButtons = true
+
+  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
+  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
+  #
+  customCSS = []
+  #customJS  = ["/js/button.js", "/js/prism.js", "/js/theme.js"]
+  customJS  = ["/js/button.js"]
+
+  # Toggle this option need to rebuild SCSS, requires extended version of Hugo
+  #
+  justifyContent = false  # Set "text-align: justify" to .post-content.
+
+  # Default theme "light" or "dark"
+  #
+  defaultTheme = "dark"
+  themeColor = "#ff79c6"
+
+  # Custom footer 
+  # If you want, you can easily override the default footer with your own content. 
+  #
+  footerLeft = "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
+  footerRight = "Inspired by <a href=\"https://github.com/rhazdon/hugo-theme-hello-friend-ng\">rhazdon</a>"
+  footerBottom = "Thoughts expressed here are solely my own, and are no way related or representitive of Eric Striffler or Pretty Much It."
+
+  # Colors for favicons
+  #
+  [params.favicon.color]
+    mask = "#ff79c6"
+    msapplication = "#ff79c6"
+    theme = "#ff79c6"
+
+  [params.logo]
+    logoText     = "HOME"
+    logoHomeLink = "/"
+    # Set true to remove the logo cursor entirely.
+    logoCursorDisabled = true
+    # Set to a valid CSS color to change the cursor in the logo.
+    logoCursorColor    = "#282a36"
+    # Set to a valid CSS time value to change the animation duration, "0s" to disable.
+    # logoCursorAnimate  = "4s"
+
+  # Uncomment this if you want a portrait on your start page
+  #
+  # [params.portrait]
+  #   path     = "/img/image.jpg"
+  #   alt      = "Portrait"
+  #   maxWidth = "50px"
+
+  # Social icons
+  [[params.social]]
+    name = "letterboxd"
+    url  = "https://boxd.it/3XcHx"
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/king-zilla"
+
+[languages]
+  [languages.en]
+    subtitle  = "Pretty Much (It) Ranked"
+    weight    = 1
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about"
+    weight     = 5
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "post/"
+    weight     = 10
+  [[menu.main]]
+    identifier = "categories"
+    name       = "Categories"
+    url        = "categories/"
+    weight     = 15
+  [[menu.main]]
+    identifier = "matrix"
+    name       = "Ranking Matrix"
+    url        = "ranks/"
+    weight     = 20

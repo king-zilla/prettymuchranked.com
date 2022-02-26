@@ -1,0 +1,8 @@
+Sitemap: https://prettymuchranked.com/sitemap.xml
+
+# Any bot 'cept googlebot can f off
+User-agent: *
+Disallow: /
+
+User-agent: Googlebot
+Allow: /
