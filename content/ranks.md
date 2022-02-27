@@ -8,6 +8,7 @@ date: 2022-02-26T09:22:39-05:00
 * [Movies](#movies-rankings)
 * [TV episodes](#tv-episodes-rankings)
 * [Commentary / Watch-alongs](#commentary--watch-along-rankings)
+* [By order watched, not score](#by-order-watched-not-by-score-value)
 
 ## Commentary / Watch-along Rankings
 
@@ -29,3 +30,16 @@ date: 2022-02-26T09:22:39-05:00
 | ---  | ---                    | ---   |
 |      |                        |
 
+---
+
+## By order watched, not by score value
+
+> Listed by order in which they were watched/ranked, which was attempted to match chronologically
+> the order in which they were released by Eric
+>
+> To find a movie's individual review page for below, just search the page for the name in one of the tables above.
+
+| Name               | Order watched | Score   |
+| ---                | ---           | ---     |
+| Inspector Gadget 2 | 1             | 1.8/10  |
+| Sharknado          | 2             | 1.85/10 |

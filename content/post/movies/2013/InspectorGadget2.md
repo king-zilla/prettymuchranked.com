@@ -1,6 +1,6 @@
 ---
 title: "Inspector Gadget 2"
-date: 2022-02-01T12:24:55-05:00
+date: 2022-02-26T12:24:55-05:00
 excerpt: "Commentary | Inspector Gadget 2"
 categories:
  - Movies Rankings
