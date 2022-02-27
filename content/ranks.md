@@ -12,17 +12,19 @@ date: 2022-02-26T09:22:39-05:00
 
 ## Commentary / Watch-along Rankings
 
-| Name               | Individual Review Page                     | Score  |
-| ---                | ---                                        | ---    |
-| Sharknado          | [Link](/post/movies/2013/sharknado)        | 5.7/10 |
-| Inspector Gadget 2 | [Link](/post/movies/2013/inspectorgadget2) | 3/10   |
+| Name                                        | Individual Review Page                                  | Score  |
+| ---                                         | ---                                                     | ---    |
+| The Oogieloves in the Big Balloon Adventure | [Link](/post/movies/2013/oogielovesbigballoonadventure) | 8.1/10 |
+| Sharknado                                   | [Link](/post/movies/2013/sharknado)                     | 5.7/10 |
+| Inspector Gadget 2                          | [Link](/post/movies/2013/inspectorgadget2)              | 3/10   |
 
 ## Movies Rankings
 
-| Name               | Individual Review Page                     | Score   |
-| ---                | ---                                        | ---     |
-| Sharknado          | [Link](/post/movies/2013/sharknado)        | 1.85/10 |
-| Inspector Gadget 2 | [Link](/post/movies/2013/inspectorgadget2) | 1.8/10  |
+| Name                                        | Individual Review Page                                  | Score   |
+| ---                                         | ---                                                     | ---     |
+| Sharknado                                   | [Link](/post/movies/2013/sharknado)                     | 1.85/10 |
+| Inspector Gadget 2                          | [Link](/post/movies/2013/inspectorgadget2)              | 1.8/10  |
+| The Oogieloves in the Big Balloon Adventure | [Link](/post/movies/2013/oogielovesbigballoonadventure) | 0.1/10  |
 
 ## TV Episodes Rankings
 
@@ -39,7 +41,8 @@ date: 2022-02-26T09:22:39-05:00
 >
 > To find a movie's individual review page for below, just search the page for the name in one of the tables above.
 
-| Name               | Order watched | Movies/Episode Score | Commentary Score |
-| ---                | ---           | ---                  | ---              |
-| Inspector Gadget 2 | 1             | 1.8/10               | 3/10             |
-| Sharknado          | 2             | 1.85/10              | 5.7/10           |
+| Name                                        | Order watched | Movies/Episode Score | Commentary Score |
+| ---                                         | ---           | ---                  | ---              |
+| Inspector Gadget 2                          | 1             | 1.8/10               | 3/10             |
+| Sharknado                                   | 2             | 1.85/10              | 5.7/10           |
+| The Oogieloves in the Big Balloon Adventure | 3             | 0.1/10               | 8.1/10           |
