@@ -15,9 +15,9 @@ categories:
   * If this movie would have kept all the songs/music numbers but was trimmed to be under 80 minutes, it probably would of been at least a 7.8/10.
   * Was there supposed to be some weird implied sexual tension between ~~the LS guy~~ Mr. Fulton and Sharpay or...?
   * I agree with Jake, this movie's plot is not nearly as good as HSM1
-  * The Lava Springs setting was just weirdly deserted and felt empty and akward
+  * The Lava Springs setting was just weirdly deserted and felt empty and awkward
   * It took 5 weeks to film this... huh
-  * At least Efron sang all of his songs this time I guess? ... even though they feel akward and forced at times
+  * At least Efron sang all of his songs this time I guess? ... even though they feel awkward and forced at times
 
 * **Commentary: 4/10**
   * Most of thoughts are applicable so not going to reiterate here.
